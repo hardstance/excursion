@@ -1,0 +1,29 @@
+h1, h2, h3, p, a {
+  font-family: Verdana;
+  font-weight: normal;
+}
+h1 {
+  color: white;
+  size: 50px;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  size: 21px;
+  color: gray;
+}
+
+a {
+  color: aquamarine;
+  size: 16px;
+}
+
+body {
+  text-align: center;.
+  align-items: center;
+  background-color: black;
+
+}
